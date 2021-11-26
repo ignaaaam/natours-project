@@ -4,6 +4,6 @@ A website project made for an advanced css course to improve css practices, lear
 
 Check it out &#8594; [Natours Project](https://websiteproject-natours.netlify.app/)
 
-![Website Showcase](https://github.com/iamatnuria/natours-project/blob/main/natours_general_showcase.png?raw=true "Website Showcase")
+![Website Showcase](https://github.com/iamatnuria/natours-project/blob/main/natours_showcase.png "Website Showcase")
 
 
