@@ -5,6 +5,6 @@ The course used to build this was taken in 2019 but wasn't uploaded until now.
 
 Check it out &#8594; [Natours Project](https://websiteproject-natours.netlify.app/)
 
-![Website Showcase](https://github.com/iamatnuria/natours-project/blob/main/natours_showcase.png "Website Showcase")
+![Website Showcase](https://github.com/iamatnuria/natours-project/blob/main/website_showcase.png "Website Showcase")
 
 
